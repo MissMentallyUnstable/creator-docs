@@ -38,3 +38,4 @@ properties: []
 methods: []
 events: []
 callbacks: []
+game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList, false)
